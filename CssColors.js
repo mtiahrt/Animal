@@ -1,4 +1,4 @@
-import React, {useEffect} from 'react'
+import React from 'react'
 import { StyleSheet, SafeAreaView, VirtualizedList, StatusBar, Text, View } from 'react-native';
 import CssColorItem from './CssColorItem';
 import data from './cssColorsData.json'

@@ -1,11 +1,10 @@
 import React from 'react'
-import { StyleSheet, Text, View, Image, ScrollView, TextInput, Button } from 'react-native';
+import { Text, View } from 'react-native';
 
-
-function Dog({ navigation, route }) {
+function Dog(props) {
     return (
         <View>
-            <Text>Dog component! The Route is {route.params.name} screen</Text>
+            <Text>Dog component! The Route is {props.route.name} screen</Text>
         </View>
     )
 }
