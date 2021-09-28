@@ -1,0 +1,85 @@
+[
+    {
+        "key": "1",
+        "cssCategory": "CSS Level 1",
+        "colorName": "black",
+        "value": "#000000"
+    },
+    {   "key": "2",
+        "cssCategory": "CSS Level 1",
+        "colorName": "silver",
+        "value": "#c0c0c0"
+    },
+    {
+        "key": "3",
+        "cssCategory":"CSS Level 1",
+        "colorName": "gray",
+        "value": "#808080"
+    },
+    {
+        "key": "4",
+        "cssCategory":"CSS Level 1",
+        "colorName": "white",
+        "value": "#ffffff"
+    },
+    {
+        "key": "5",
+        "cssCategory":"CSS Level 1",
+        "colorName": "maroon",
+        "value": "#800000"
+    },
+    {
+        "key": "6",
+        "cssCategory":"CSS Level 1",
+        "colorName": "red",
+        "value": "#ff0000"
+    },
+    {
+        "key": "7",
+        "cssCategory":"CSS Level 1",
+        "colorName": "purple",
+        "value": "#800080"
+    },
+    {
+        "key": "8",
+        "cssCategory":"CSS Level 1",
+        "colorName": "fuchsia",
+        "value": "#ff00ff"
+    },
+    {
+        "key": "9",
+        "cssCategory":"CSS Level 1",
+        "colorName": "green",
+        "value": "#008000"
+    },
+    {
+        "key": "10",
+        "cssCategory":"CSS Level 1",
+        "colorName": "lime",
+        "value": "#00ff00"
+    },
+    {
+        "key": "11",
+        "cssCategory":"CSS Level 1",
+        "colorName": "olive",
+        "value": "#808000"
+    },
+    {
+        "key": "12",
+        "cssCategory":"CSS Level 1",
+        "colorName": "yellow",
+        "value": "#ffff00"
+    },
+    {
+        "key": "13",
+        "cssCategory":"CSS Level 1",
+        "colorName": "navy",
+        "value": "#000080"
+    },
+    {
+        "key": "14",
+        "cssCategory":"CSS Level 1",
+        "colorName": "blue",
+        "value": "#0000ff"
+    }
+]
