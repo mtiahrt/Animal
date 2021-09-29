@@ -8,7 +8,6 @@ function Cat({ navigation }) {
         navigation.navigate('Dog', {name: 'Woofy'})
       }
       const clearExistingText = e => {
-        console.log(e.defaultValue); 
         this.defaultValue = '';
       }
       const logo = {

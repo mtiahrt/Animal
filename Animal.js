@@ -1,10 +1,13 @@
-import React from 'react'
+import React, {useContext} from 'react'
 import { StyleSheet, Text, View, Image, Pressable } from 'react-native';
-
+import {HeaderTitleContext} from './Contexts/HeaderContext';
 
 function Animal({ navigation }) {
+    const {setHeaderContext} = useContext(HeaderTitleContext);
+
     const handleButtonPressCat = () => {
-        navigation.navigate('Cat', {name: 'Meow'})
+        navigation.navigate('Cat', {name: 'Meow'});
+        setHeaderContext('Cat')
     }
     const handleButtonPressDog = () => {
         navigation.navigate('Dog', {name: 'Woofy'})

@@ -1,7 +1,6 @@
 import React from 'react'
 import { StyleSheet, Text, View } from 'react-native';
 
-
 function CssColorItem({title, color}) {
     return (
         <View style={{...styles.item, ...{backgroundColor: color} }}>
@@ -31,3 +30,4 @@ export default CssColorItem;
 //React navagation => using a tabulated page  
 //React native paper => UI component
 //redux-saga
+//pull down repo and walk thourgh readMe.mp
